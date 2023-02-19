@@ -1,0 +1,6 @@
+hw2
+
+
+improving from hw1, which was more of a template, this is an attemp for bottom up synthesis. Nested for loops for 4 operations and 9 numbers are used to find what arithmetic operation is needed to get the output parameter from input parameter. 
+
+the pairs that satisfy the conditions are added to a list, which is returned after the for loops are completed.
